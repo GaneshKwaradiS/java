@@ -1,4 +1,4 @@
-
+//A new class inheritance project
 
 class Box{
 	private double width;
